@@ -3,7 +3,7 @@ Implementation of the swarming model “No-regret Exploration in Goal-Oriented R
 
 Any modification made in the code are commented with  `omer&anton` making it easier to find what changes we've made in the original code.
 
-`/Videos` - Videos of the experiments are 
+`/videos` - Videos of the experiments are 
 
 Install the experiment environments by running the following:
 
