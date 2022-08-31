@@ -1,5 +1,6 @@
-# Bats Swarm Simulation
+# Bats Swarm Simulation 
 Omer Keinan, Anton Gurevich
+____________________________________________________________________
 
 Implementation of the swarming model “No-regret Exploration in Goal-Oriented Reinforcement Learning”, Tarbouriech et al., 2019. on bats Matlab simulation
 
